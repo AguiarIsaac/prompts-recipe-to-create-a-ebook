@@ -1,92 +1,37 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+README.md — Repositório do eBook "Domine a IA: Da Falha ao Aprendizado Real"
 
+Bem-vindo ao repositório oficial do meu primeiro eBook: Domine a IA: Da Falha ao Aprendizado Real.
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+📄 Sobre o eBook
 
--------
+Este livro é um guia direto, prático e acessível sobre o uso consciente da Inteligência Artificial no dia a dia. Focado inicialmente para desenvolvedores, mas escrito de forma que qualquer pessoa, de qualquer área, possa aplicar os princípios abordados.
 
+💡 O que você vai encontrar
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+Uma reflexão acessível sobre o que é inteligência (humana e artificial)
 
-# Projeto EBOOK Gerado por I.A.s
+Como funcionam as IAs por baixo dos panos
 
+Os custos ocultos das IAs "gratuitas"
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+Os principais erros ao utilizar IA
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+As melhores práticas para usar IA a seu favor e ganhar tempo de verdade
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+✍️ Autor
 
-## 💻 Tecnologias utilizadas no projeto
+Isaac Aguiar
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+Desenvolvedor de software
 
-## 🧠 Prompts
+Estuda Inteligência Artificial aplicada à produtividade e ao aprendizado
 
+Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/isaac-aguiar-2b9039121/)
 
-ChatGPT：
+🔧 Como este livro foi feito
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Este livro foi escrito com apoio de ferramentas de inteligência artificial, usadas como assistente criativo e técnico para revisão, estruturação e pesquisa. Todo o conteúdo, estilo e opiniões são fruto da experiência do autor.
 
+📝 Licença
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Este eBook é distribuído para fins educacionais. Não é permitida sua revenda. Compartilhe com crédito ao autor.
