@@ -32,6 +32,8 @@ Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/isaac-aguiar-2b90391
 
 Este livro foi escrito com apoio de ferramentas de inteligência artificial, usadas como assistente criativo e técnico para revisão, estruturação e pesquisa. Todo o conteúdo, estilo e opiniões são fruto da experiência do autor.
 
+Prompts que utilizei: [Prompts](https://chatgpt.com/share/6845d23d-1760-8011-8d9d-aae37b0ba25a)
+
 📝 Licença
 
 Este eBook é distribuído para fins educacionais. Não é permitida sua revenda. Compartilhe com crédito ao autor.
